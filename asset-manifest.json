@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/soham-sorting-algorithm/static/css/main.b0fc516b.chunk.css",
+    "main.js": "/soham-sorting-algorithm/static/js/main.dd4650b6.chunk.js",
+    "main.js.map": "/soham-sorting-algorithm/static/js/main.dd4650b6.chunk.js.map",
+    "runtime-main.js": "/soham-sorting-algorithm/static/js/runtime-main.e42b2d3a.js",
+    "runtime-main.js.map": "/soham-sorting-algorithm/static/js/runtime-main.e42b2d3a.js.map",
+    "static/js/2.717a154b.chunk.js": "/soham-sorting-algorithm/static/js/2.717a154b.chunk.js",
+    "static/js/2.717a154b.chunk.js.map": "/soham-sorting-algorithm/static/js/2.717a154b.chunk.js.map",
+    "index.html": "/soham-sorting-algorithm/index.html",
+    "precache-manifest.19dd6405313bab8ba3a8ce064fd9dc12.js": "/soham-sorting-algorithm/precache-manifest.19dd6405313bab8ba3a8ce064fd9dc12.js",
+    "service-worker.js": "/soham-sorting-algorithm/service-worker.js",
+    "static/css/main.b0fc516b.chunk.css.map": "/soham-sorting-algorithm/static/css/main.b0fc516b.chunk.css.map",
+    "static/js/2.717a154b.chunk.js.LICENSE.txt": "/soham-sorting-algorithm/static/js/2.717a154b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/soham-sorting-algorithm/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e42b2d3a.js",
+    "static/js/2.717a154b.chunk.js",
+    "static/css/main.b0fc516b.chunk.css",
+    "static/js/main.dd4650b6.chunk.js"
+  ]
+}
